@@ -1,0 +1,5 @@
+#qdrant-client → core SDK for Qdrant
+#fastembed → local embeddings (no API key needed)
+
+qdrant-client==1.3.2
+fastembed==0.0.6
